@@ -1,4 +1,6 @@
 # VBA_challenge
+VBA script file includes: 
+
 Sub procedure "Outputs" calls the other sub procedures in the code and loops through the sheets
 
 "Headers" creates and formats the headers for the first set of outputs 
@@ -7,3 +9,7 @@ Sub procedure "Outputs" calls the other sub procedures in the code and loops thr
 "Total_Vol" loops through the data, calculates the total volume for each ticker, and returns the outputs in the correct column
 "Greatest" creates and formats the headers for the table, calculates each value, and returns the outputs and ticker in the correct colum
 "Conditional_Formatting" changes the color or the yearly and percent change cells to green for positive values and red for negative values
+
+*Sources with links are commented in the VBA script file
+
+Screen shots for 2018-2020 outcomes are provided 
